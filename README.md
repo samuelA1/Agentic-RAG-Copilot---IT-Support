@@ -116,7 +116,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 8. Classroom Demo Scenarios
+Classroom Demo Scenarios
 
 ### Demo A — Private KB Success
 
@@ -218,7 +218,7 @@ Teaching point:
 
 ---
 
-## 9. Document Upload Demo
+Document Upload Demo
 
 The sidebar contains **Add Company Document**.
 
@@ -253,7 +253,7 @@ This is useful in an FDE demonstration because the customer does not want to edi
 
 ---
 
-## 10. API Endpoints
+API Endpoints
 
 ### `GET /api/health`
 
